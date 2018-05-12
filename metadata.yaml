@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23758#Work-and-Win--Or-Noddy-Newman-on-a-Cruise
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-12-07'
 gutenberg_type: Text
